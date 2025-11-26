@@ -1,16 +1,16 @@
 name: Generate Snake
 
 on:
-  # Executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Permite rodar manualmente na aba "Actions"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+  workflow_dispatch:     # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -19,9 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Nome do usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
-          # Arquivos de saída (gif e svg)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
