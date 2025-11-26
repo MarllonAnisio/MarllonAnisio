@@ -22,16 +22,12 @@
 <div align="center">
   <h3>📊 Raio-X do Perfil</h3>
   
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Estatísticas" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" alt="Linguagens" />
-      </td>
-    </tr>
-  </table>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true" alt="Estatísticas" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=8" alt="Linguagens" />
+  </div>
 </div>
 
 <br/>
@@ -44,5 +40,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github.com/MarllonAnisio/MarllonAnisio/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
