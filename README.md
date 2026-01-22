@@ -1,53 +1,84 @@
-<div align="center">
-  <h2>🚀 Olá, sou o Marllon Anísio</h2>
-  <p>
-    <strong>Fullstack Developer | Java • Kotlin • React</strong>
-  </p>
-  <p>
-    Estudante de Análise e Desenvolvimento de Sistemas no IFPB, focado em criar soluções escaláveis e código limpo.
-  </p>
+<h1 align="center">Marllon Anisio</h1>
 
-  <a href="https://linkedin.com/in/marllon-anisio">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="38" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="38" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="38" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="38" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="38" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="38" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="38" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="38" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/marllon-anisio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:marllon.anisio@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/MarllonAnisio">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/marllon.anisio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
-<br />
+###
 
 <div align="center">
-  <h3>📊 Métricas do GitHub</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" alt="Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&langs_count=6" alt="Langs" />
-    </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
 </div>
 
-<br />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
+</picture>
+
+###
 
 <div align="center">
-  <h3>🛠️ Tecnologias & Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,react,ts,js,postgres,docker,git,linux&theme=dark" alt="Skills" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarllonAnisio.MarllonAnisio&"  />
 </div>
 
-<br />
-
-<div align="center">
-  <h3>🐍 Minhas Contribuições</h3>
-  <img src="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<hr />
-
-<div align="center">
-  <sub>Desenvolvido por Marllon Anísio • 2025</sub>
-</div>
+###
