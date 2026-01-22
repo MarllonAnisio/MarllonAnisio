@@ -1,6 +1,8 @@
-<h1 align="center">Marllon Anisio</h1>
+<h1 align="center">♣️ Marllon Anisio ♣️</h1>
 
 ###
+
+<h2 align="center"> Tecnologias e Ferramentas 🪖⚔️🪤 </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
@@ -44,20 +46,9 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/marllon-anisio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <a href="https://www.instagram.com/marllon.anisio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-<br />
-
+<h2 align="center"> Git Stats </h2>
 
 <div align="center">
 
@@ -71,6 +62,8 @@
 
 </div>
 
+---
+
 ###
 
 <picture>
@@ -82,6 +75,18 @@
 
 ###
 
+<h3 align="center"> Contatos </h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/marllon-anisio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/marllon.anisio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarllonAnisio.MarllonAnisio&"  />
 </div>
@@ -89,5 +94,5 @@
 <hr />
 
 <div align="center">
-  <sub>Desenvolvido por Marllon Anísio • 2025</sub>
+  <sub>Desenvolvido por Marllon Anisio • 2026</sub>
 </div>
