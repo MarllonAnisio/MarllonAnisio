@@ -58,8 +58,17 @@
 
 <br />
 
+
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
+    <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
+  </picture>
+
 </div>
 
 ###
@@ -69,11 +78,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph.svg">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-</picture>
+
 
 ###
 
