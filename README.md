@@ -56,7 +56,7 @@
   </a>
 </div>
 
-###
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
@@ -81,4 +81,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarllonAnisio.MarllonAnisio&"  />
 </div>
 
-###
+<hr />
+
+<div align="center">
+  <sub>Desenvolvido por Marllon Anísio • 2025</sub>
+</div>
