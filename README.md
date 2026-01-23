@@ -53,7 +53,9 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&theme=ocean_dark&show_icons=true" />
-
+  
+  <img width="10" />
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
