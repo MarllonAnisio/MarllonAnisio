@@ -52,7 +52,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&theme=ocean_dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarllonAnisio&theme=dark&show_icons=true" height="180" alt="Anurag's GitHub stats" />
   
   <img width="10" />
   
