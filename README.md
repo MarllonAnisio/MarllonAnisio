@@ -1,6 +1,6 @@
 <h1 align="center">♣️ Marllon Anisio ♣️</h1>
 
-<p align= "center" > Estudante de Analise e Desenvolvimento de Sistemas</p>
+<p align= "center" > Estudante de Analise e Desenvolvimento de Sistemas (ADS)</p>
 
 ###
 
@@ -14,32 +14,59 @@
       <img src="https://github.com/user-attachments/assets/0fe5257f-279d-4d66-a3ef-0b6689e1a4a7" alt="matrix-film" width="100%">
     </td>
     <td width="50%">
-      <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=spring" height="38" alt="spring logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=figma" height="38" alt="figma logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="38" alt="microsoftsqlserver logo"  />
-      <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="nodejs logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="60" alt="postgresql logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
     </td>
   </tr>
 </table>
 
 ---
 
+<h2 align="center"> Mais tecnologias</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="left">Tecnologias em Aprimoramento:</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="60" alt="kotlin logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="60" alt="gradle logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+    </td>
+    <td width="50%">
+       <h3 align="right">Interece em Aprender:</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" alt="django logo"  />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="pandas logo"  />
+
+    </td>
+  </tr>
+</table>
+
+---
 
 <h2 align="center"> Git Stats </h2>
+
 
 <div align="center">
   
