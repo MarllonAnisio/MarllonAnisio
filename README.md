@@ -1,52 +1,43 @@
 <h1 align="center">♣️ Marllon Anisio ♣️</h1>
 
+<p align= "center" > Estudante de Analise e Desenvolvimento de Sistemas</p>
+
 ###
 
-<h2 align="center"> Tecnologias e Ferramentas 🪖⚔️🪤 </h2>
+<h2 align="center"> Tecnologias com Experiencia</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="38" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="38" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="38" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="38" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="38" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="38" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="38" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="38" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
-</div>
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/0fe5257f-279d-4d66-a3ef-0b6689e1a4a7" alt="matrix-film" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=spring" height="38" alt="spring logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=figma" height="38" alt="figma logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="38" alt="microsoftsqlserver logo"  />
+      <img width="12" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 <h2 align="center"> Git Stats </h2>
 
