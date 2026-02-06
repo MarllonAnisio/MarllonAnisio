@@ -39,32 +39,33 @@
 
 <h2 align="center"> Mais tecnologias</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Tecnologias em Aprimoramento:</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="50" alt="kotlin logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="50" alt="gradle logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Interesse em Aprender:</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" alt="django logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" alt="pandas logo" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="kotlin" />
+           <img width="8" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="40" alt="gradle" />
+           <img width="8" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react" />
+           <img width="8" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+        </div>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h4>Interesse em Aprender</h4>
+        <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python" />
+           <img width="8" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django" />
+           <img width="8" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
