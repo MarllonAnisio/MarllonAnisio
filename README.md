@@ -37,53 +37,49 @@
 
 ---
 
-<h2 align="center"> Mais tecnologias</h2>
+<h2 align="center">Tecnologias em Aprimoramento</h2>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <div align="center">
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="kotlin" />
-           <img width="8" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="40" alt="gradle" />
-           <img width="8" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react" />
-           <img width="8" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-        </div>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h4>Interesse em Aprender</h4>
-        <div align="center">
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python" />
-           <img width="8" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django" />
-           <img width="8" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="60" alt="kotlin" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="60" alt="gradle" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react" />
+  <img width="8" />
+</div>
+
+---
+
+<h2 align="center">Interesse em Aprender</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" alt="django" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" alt="pandas" />
 </div>
 
 ---
 
 <h2 align="center"> Git Stats </h2>
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src= https://github.com/user-attachments/assets/db7d6f1e-23a4-490e-b314-da7c637f7558 alt="matrix-film" width="100%">
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF" height="180" alt="Top Languages">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  
- 
-  
-  <img width="10" />
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF" height="180" alt="Top Languages">
-  </picture>
-</div>
 
 ---
 
