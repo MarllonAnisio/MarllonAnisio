@@ -1,81 +1,105 @@
-<h1 align="center">♣️ Marllon Anisio ♣️</h1>
+<h1 align="center">✠ Marllon Anisio ✠</h1>
 
 <p align="center">
   <strong>Fullstack Developer | ADS Student</strong><br>
-  Transformando café, Energetico e Suor em sistemas robustos e interfaces fluidas.
+  Transformando café, energético e suor em sistemas robustos e interfaces fluidas.
 </p>
 
 <div align="center">
   <a href="https://linkedin.com/in/marllon-anisio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
   </a>
-  <a href="mailto:marllon.anisio@seuemail.com" target="_blank">
+  <a href="mailto:marllon.anisio@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail" />
   </a>
   <a href="https://www.instagram.com/marllon.anisio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram" />
+  </a>
+  <a href="https://www.youtube.com/@marllonAnisio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/83d93dad-4265-4032-b16e-30b2a45fdc91" alt="matrix-gif" width="70%">
-</div>
-
-<div align="center">
-  
+  <img src="https://tenor.com/pt-BR/view/knight-rest-gif-14550453220715510753.gif" alt="knight-rest-gif" width="70%">
 </div>
 
 ---
 
-## 🛠️ Stack de Experiência (Domínio)
+## 👨‍💻 Sobre mim
+
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS).**
+- 💻 **Desenvolvedor Fullstack** com foco em criar aplicações escaláveis e com código limpo.
+- 🚀 Aprofundando diariamente meus conhecimentos em **arquitetura de software**, **clean code** e **boas práticas**.
+- 💡 Apaixonado por tecnologia, desafios lógicos e por transformar ideias em soluções digitais.
+
+---
+
+## 🛠️ Stack de Experiência
 
 <div align="center">
-  <h3>🖥️ Backend & Linguagens</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="node" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="js" />
-  
-  <br>
-
-  <h3>🗄️ Bancos de Dados (SQL & NoSQL)</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="60" alt="postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="sqlserver" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb" />
-
-  <br>
-
-  <h3>⚙️ DevOps & Ferramentas</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring" title="Spring Boot" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin" title="Kotlin" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="js" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgres" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sqlserver" title="SQL Server" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma" title="Figma" />
 </div>
 
 ---
 
-## ⚡ Em Aprimoramento (Foco Atual)
+## 🌱 Aprendizado Contínuo
 
-<div align="center">
-  <p>Expandindo para o desenvolvimento moderno e tipagem estrita:</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" height="60" alt="kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="ts" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react" />
-</div>
+<table align="center" border="0">
+  <tr valign="top">
+    <td width="50%" align="center">
+      <p><strong>🚀 Foco Atual</strong></p>
+      <p>Desenvolvimento moderno e tipagem estrita.</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="ts" title="TypeScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" title="React" />
+    </td>
+    <td width="50%" align="center">
+      <p><strong>🎯 Próximos Passos</strong></p>
+      <p>Análise de dados e inteligência.</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django" title="Django" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas" title="Pandas" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Próximos Passos (Backlog)
+## 🏆 Projetos em Destaque
 
-<div align="center">
-  <p>Interesses futuros em análise de dados e inteligência:</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" alt="django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="pandas" />
-</div>
+<table border="0" align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <h3><a href="https://github.com/MarllonAnisio/CAIP-BackEnd">🚀 CAIP-BackEnd</a></h3>
+      <p>API RESTful para um sistema de gerenciamento de itens achados e perdidos, construída com foco em segurança, performance e escalabilidade utilizando o ecossistema Java/Spring.</p>
+      <br>
+      <strong>Tecnologias:</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Boot" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" title="Redis" />
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <a href="https://github.com/MarllonAnisio/CAIP-BackEnd">
+        <img src="assets/CAIP.png" alt="CAIP-BackEnd Demo" width="90%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -85,13 +109,10 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0fe5257f-279d-4d66-a3ef-0b6689e1a4a7" alt="coding-gif"  width="380px">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=MarllonAnisio&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180">
       </td>
       <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=light&hide_border=true" height="180" alt="Top Languages">
-        </picture>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarllonAnisio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages">
       </td>
     </tr>
   </table>
@@ -100,10 +121,7 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarllonAnisio/MarllonAnisio/output/pacman-contribution-graph-dark.svg" width="100%">
 </div>
 
 ---
@@ -111,5 +129,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarllonAnisio.MarllonAnisio&" />
   <br>
-  <sub>Desenvolvido por Marllon Anisio • 2026</sub>
+  <sub>Desenvolvido por Marllon Anisio • 2024</sub>
 </div>
